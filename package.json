@@ -1,0 +1,8 @@
+{
+  "name": "eg_test",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": ">= 0.0.1",
+    "referee": ">= 0.0.1"
+  }
+}
