@@ -1,5 +1,5 @@
 {
-  "name": "eg_test",
+  "name": "blog_unit",
   "version": "0.0.1",
   "devDependencies": {
     "mocha": ">= 0.0.1",
